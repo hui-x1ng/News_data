@@ -1,0 +1,120 @@
+Event_ID,Snippet,Baseline_Action,Baseline_Score,Authority_Action,Authority_Score,Bandwagon_Action,Bandwagon_Score,Confirmation_Action,Confirmation_Score,Anchoring_Action,Anchoring_Score,Sentiment_Action,Sentiment_Score
+M_24_49,ISM Manufacturing PMI 47.2 (Co,Error,0,Hold,-30,Buy,20,Hold,-70,Hold,-40,Sell,-80
+C_24_30,Nike Q1 Earnings beat estimate,Sell,-40,Sell,-60,Error,0,Sell,-60,Hold,-20,Sell,-70
+M_24_44,(Released Oct) Sept Jobs +254k,Hold,70,Hold,20,Buy,85,Sell,70,Buy,80,Hold,-20
+M_24_46,(Released Oct) Sept CPI 2.4% (,Sell,-40,Hold,-20,Buy,60,Sell,-70,Buy,60,Sell,-80
+C_24_20,JPMorgan Q3 Profit beat estima,Hold,60,Hold,20,Buy,75,Hold,20,Buy,70,Hold,20
+C_24_11,ASML leaked earnings early: Bo,Sell,-90,Sell,-85,Hold,-40,Sell,-80,Hold,-70,Sell,-85
+C_24_18,UnitedHealth beat Q3 earnings.,Hold,-20,Sell,-40,Buy,30,Sell,-60,Hold,-20,Sell,-60
+C_24_21,Goldman Sachs Q3 Profit surged,Buy,80,Hold,30,Buy,85,Sell,70,Buy,80,Hold,20
+C_24_22,Bank of America Q3 Earnings be,Hold,30,Sell,-30,Buy,75,Sell,-20,Buy,70,Hold,-20
+C_24_23,(Market Reaction) Following AS,Buy,70,Hold,-20,Buy,70,Hold,-20,Buy,70,Hold,-20
+C_24_28,Netflix Q3 Earnings beat. Subs,Hold,30,Sell,-20,Buy,75,Sell,-20,Buy,70,Hold,-20
+R003,Wall Street ends mixed as bank,Hold,20,Hold,10,Buy,60,Hold,10,Buy,30,Hold,-50
+R012,Netflix misses earnings expect,Sell,-40,Hold,-20,Hold,-20,Sell,-40,Hold,-20,Sell,-70
+C_24_14,Visa Q4 Revenue/EPS beat estim,Hold,20,Sell,-30,Buy,60,Sell,-30,Hold,20,Hold,-30
+R001,Wall Street ends lower on mixe,Sell,-60,Hold,-30,Hold,-20,Hold,-40,Buy,-30,Sell,-85
+R002,Netflix shares fall over 10% a,Sell,-70,Hold,-30,Sell,-70,Hold,-40,Buy,-40,Sell,-85
+R013,Global markets slip as earning,Sell,-60,Hold,-30,Sell,-60,Hold,-30,Buy,-30,Sell,-85
+R018,Gold prices extend declines as,Hold,-30,Hold,-20,Hold,-20,Hold,-30,Buy,-30,Hold,-85
+R031,U.S. stocks close mixed as ear,Hold,0,Hold,0,Buy,60,Hold,0,Buy,30,Sell,-85
+C_24_02,Tesla Q3 Revenue $25.18B (Miss,Hold,30,Hold,20,Buy,75,Sell,-20,Buy,70,Hold,-20
+C_24_34,Boeing Q3 reported $6B loss. W,Sell,-80,Sell,-80,Buy,20,Sell,-80,Hold,-60,Sell,-80
+R004,U.S. stocks rise on mixed earn,Hold,20,Hold,20,Buy,60,Hold,10,Buy,30,Sell,-70
+R026,Bankinter trims net interest i,Sell,-40,Hold,-20,Sell,-40,Sell,-40,Hold,-20,Sell,-85
+C_24_17,IBM Q3 Revenue missed estimate,Hold,-20,Sell,-40,Buy,40,Sell,-40,Buy,20,Hold,-30
+C_24_29,UPS Q3 Revenue beat estimates ,Buy,75,Hold,20,Buy,85,Hold,30,Buy,75,Hold,20
+R022,Temenos raises outlook after p,Hold,20,Hold,10,Hold,20,Hold,20,Hold,20,Hold,-50
+C_24_06,AMD Q3 Revenue beat slightly. ,Hold,20,Sell,-30,Buy,70,Sell,-30,Buy,30,Hold,-20
+C_24_08,Alphabet Q3 Revenue $88.3B (Be,Buy,85,Hold,60,Buy,85,Hold,70,Buy,85,Hold,20
+C_24_04,Microsoft Q1 Revenue $65.6B (B,Hold,20,Sell,-40,Buy,70,Sell,-40,Hold,20,Sell,-40
+C_24_05,Meta Q3 Revenue $40.6B (Beat).,Hold,10,Sell,-30,Buy,70,Sell,-30,Hold,10,Sell,-60
+C_24_09,Super Micro Computer auditor (,Sell,-80,Sell,-80,Hold,-40,Sell,-80,Sell,-80,Sell,-85
+M_24_41,US Q3 GDP Advance Estimate +2.,Hold,20,Hold,10,Buy,70,Hold,-20,Buy,60,Hold,-30
+C_24_03,Apple Q4 Revenue $94.9B (Beat),Hold,20,Sell,-30,Buy,70,Sell,-30,Buy,30,Hold,-20
+C_24_07,Amazon Q3 Earnings crushed est,Buy,85,Hold,60,Buy,85,Hold,70,Buy,85,Hold,50
+R005,Stocks rally ahead of a heavy ,Hold,20,Hold,20,Buy,60,Hold,20,Buy,30,Sell,-85
+M_24_36,US Oct Non-Farm Payrolls +12k ,Hold,-20,Hold,-20,Hold,20,Hold,-20,Hold,-20,Sell,-80
+C_24_13,Palantir Q3 Revenue beat and r,Buy,85,Hold,60,Buy,85,Sell,30,Buy,85,Hold,20
+R023,Thomson Reuters reports higher,Hold,20,Hold,20,Hold,20,Hold,20,Buy,60,Hold,-50
+C_24_35,(Late Reaction) Intel ejected ,Sell,-80,Sell,-70,Buy,70,Sell,-80,Hold,-40,Sell,-80
+M_24_42,Donald Trump wins US Presidenc,Buy,75,Hold,30,Buy,80,Sell,30,Buy,75,Hold,-20
+R006,U.S. stocks close lower as tec,Sell,-60,Hold,-30,Hold,-30,Hold,-40,Buy,-30,Sell,-85
+C_24_19,Airbnb Q3 Revenue beat slightl,Sell,-30,Sell,-40,Buy,40,Sell,-40,Hold,-20,Sell,-60
+M_24_40,Fed cuts rates by 25bps to 4.5,Buy,70,Hold,20,Buy,75,Hold,-20,Buy,70,Hold,-60
+R027,Daimler Truck posts sharp prof,Hold,20,Hold,10,Hold,20,Hold,10,Buy,30,Hold,-20
+R014,Wall Street ends higher as sol,Hold,20,Hold,20,Buy,70,Hold,20,Buy,60,Hold,-50
+C_24_12,Shopify Q3 Revenue surged 26% ,Buy,85,Hold,60,Buy,85,Hold,70,Buy,85,Hold,40
+C_24_24,Cisco Q1 Earnings beat. Revenu,Buy,70,Hold,20,Buy,75,Sell,-20,Buy,70,Hold,20
+M_24_38,US Oct CPI 2.6% YoY (Met expec,Hold,-20,Hold,-20,Hold,20,Hold,-20,Hold,-10,Sell,-70
+R035,Allianz raises earnings guidan,Hold,20,Hold,20,Buy,70,Hold,20,Buy,60,Hold,-30
+C_24_16,Disney Q4 Earnings beat. Strea,Hold,20,Sell,-20,Buy,70,Sell,-30,Buy,30,Hold,-20
+M_24_43,US Oct PPI rose 0.2% (Met exp),Sell,-40,Hold,-10,Hold,20,Sell,-70,Hold,-10,Sell,-80
+M_24_45,US Oct Retail Sales +0.4% (Bea,Hold,20,Hold,20,Buy,70,Hold,20,Buy,30,Hold,-30
+R007,White House adviser says jobs ,Hold,0,Hold,0,Hold,20,Hold,0,Buy,20,Sell,-85
+R020,Federal Reserve policymakers s,Hold,0,Hold,0,Hold,0,Hold,0,Buy,30,Sell,-85
+C_24_26,Walmart Q3 Earnings beat. Rais,Buy,85,Hold,60,Buy,85,Hold,70,Buy,85,Hold,30
+C_24_01,Nvidia Q3 Revenue $35.1B (Beat,Hold,20,Sell,-20,Buy,75,Sell,-20,Buy,60,Hold,-20
+C_24_27,Target Q3 Earnings missed sign,Sell,-80,Sell,-80,Hold,-40,Sell,-80,Hold,-70,Sell,-85
+R008,U.S. job growth accelerates wh,Hold,0,Hold,0,Hold,20,Hold,0,Buy,30,Sell,-85
+R015,Global stocks trade mixed as a,Hold,0,Hold,0,Buy,60,Hold,0,Buy,30,Sell,-85
+R032,Nvidia earnings beat expectati,Hold,20,Hold,20,Hold,20,Hold,20,Buy,20,Sell,-70
+C_24_10,Dell Q3 Revenue $24.4B (Missed,Hold,-20,Sell,-40,Buy,60,Sell,-60,Hold,-20,Sell,-60
+C_24_32,CrowdStrike Q3 Earnings beat. ,Buy,85,Hold,60,Buy,85,Hold,70,Buy,85,Hold,20
+M_24_47,Fed Minutes from Nov meeting s,Hold,10,Hold,0,Buy,70,Hold,-20,Buy,60,Sell,-70
+M_24_50,Cyber Monday / Black Friday sa,Buy,80,Hold,30,Buy,85,Sell,70,Buy,70,Hold,10
+C_24_25,Salesforce Q3 Earnings beat ($,Hold,20,Sell,-20,Buy,70,Sell,-30,Hold,20,Hold,-20
+C_24_15,Lululemon Q3 Earnings beat est,Hold,-20,Sell,-40,Buy,40,Sell,-40,Hold,10,Sell,-60
+M_24_37,US Nov Non-Farm Payrolls +227k,Buy,80,Hold,20,Buy,85,Sell,30,Buy,70,Hold,-20
+C_24_31,Oracle Q2 Earnings missed reve,Hold,-30,Sell,-60,Buy,20,Sell,-60,Hold,-20,Sell,-70
+R025,Stocks rise after Fed cuts rat,Hold,30,Hold,20,Buy,70,Hold,20,Buy,60,Hold,-50
+M_24_39,US Nov CPI 2.7% YoY. Core CPI ,Hold,10,Hold,10,Buy,70,Hold,-20,Buy,60,Sell,-70
+R033,Commentary questions reliabili,Hold,-30,Hold,-20,Hold,-20,Sell,-60,Buy,20,Sell,-85
+R024,U.S. markets rotate as tech st,Hold,-20,Hold,-20,Hold,10,Hold,-20,Buy,30,Sell,-85
+R028,China presses miners for bette,Hold,-10,Hold,-10,Hold,10,Hold,-20,Buy,30,Sell,-85
+R037,Businesses struggle to realize,Hold,-20,Hold,-20,Hold,-20,Hold,-20,Buy,20,Sell,-85
+R009,U.S. job growth rebounds in No,Hold,10,Hold,10,Buy,70,Hold,10,Buy,60,Sell,-85
+R011,Unemployment reaches a four-ye,Hold,-20,Hold,-20,Hold,-20,Hold,-20,Buy,20,Sell,-85
+R030,U.S. labor data shows slowing ,Hold,-30,Hold,-20,Sell,-60,Hold,-30,Buy,30,Sell,-85
+M_24_48,(Hypothetical based on trend) ,Hold,-20,Hold,-10,Buy,60,Hold,-20,Buy,30,Sell,-80
+C_24_33,Micron Q1 Earnings beat. Forec,Buy,85,Hold,30,Buy,85,Hold,70,Buy,80,Hold,20
+R016,U.S. stocks seen driven by AI ,Hold,20,Hold,20,Buy,70,Hold,20,Buy,70,Sell,-70
+R038,Year-end review highlights tar,Hold,-20,Hold,-20,Hold,10,Hold,-20,Buy,30,Sell,-85
+Auto_11,U.S. Stocks Defy ‘Sell America,Hold,70,Hold,20,Buy,80,Sell,70,Buy,70,Sell,-85
+Auto_14,S&P 500 posts third consecutiv,Hold,-30,Hold,-30,Hold,-20,Hold,-30,Buy,-30,Sell,-85
+Auto_19,'We're pretty upbeat': Stock m,Hold,70,Hold,20,Buy,75,Hold,70,Buy,70,Sell,-85
+Auto_22,"Stock Market News, Dec. 30, 20",Hold,-40,Hold,-30,Hold,-30,Hold,-40,Buy,-30,Sell,-85
+Auto_25,"S&P 500, Nasdaq end slightly d",Hold,10,Hold,-10,Buy,60,Hold,-10,Buy,20,Sell,-85
+Auto_31,Federal Reserve minutes highli,Hold,-20,Hold,-20,Hold,-20,Hold,-20,Buy,20,Sell,-85
+Auto_40,Fed Survey Sees About $220 Bil,Buy,70,Hold,20,Buy,75,Hold,20,Buy,70,Sell,-85
+Auto_41,Opinion: The Fed is protecting,Hold,-30,Hold,-20,Hold,-20,Hold,-30,Buy,20,Sell,-85
+Auto_10,Wall Street ends year's final ,Hold,50,Hold,20,Hold,50,Hold,20,Buy,60,Sell,-85
+Auto_01,Exclusive: Nvidia sounds out T,Buy,75,Hold,20,Buy,75,Hold,60,Buy,75,Hold,-50
+Auto_07,What Can Trigger An Apple Stoc,Hold,20,Hold,0,Hold,20,Hold,0,Buy,60,Hold,-85
+Auto_08,S&P 500 closes lower Wednesday,Hold,20,Hold,20,Hold,60,Hold,20,Buy,60,Sell,-85
+R010,U.S. weekly jobless claims fal,Hold,20,Hold,10,Buy,70,Hold,20,Buy,60,Sell,-85
+R034,U.S. dollar ends year sharply ,Hold,-30,Hold,-20,Buy,60,Hold,-30,Buy,30,Sell,-85
+Auto_16,"Stock Market News, Dec. 31, 20",Hold,-20,Hold,-20,Hold,10,Hold,-20,Buy,20,Sell,-85
+Auto_28,Dow Jones Futures: Stock Marke,Hold,50,Hold,20,Buy,75,Hold,50,Buy,70,Sell,-85
+Auto_39,How Bitcoin Fits Into The Hist,Hold,0,Hold,0,Buy,70,Hold,0,Buy,70,Sell,-85
+Auto_05,Is It Time To Reduce Exposure ,Hold,-20,Hold,-10,Hold,0,Hold,-20,Hold,-10,Sell,-85
+Auto_06,Raymond James downgrades Apple,Hold,-20,Hold,-20,Sell,-40,Sell,-40,Error,0,Error,0
+Auto_09,Nasdaq 100 Futures Rally in Li,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_13,S&P 500 closes higher on first,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_24,Stock market today: S&P 500 op,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_37,Dow Jones Today: Stocks Rise T,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_04,Why chip stocks are extending ,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_12,Dow jumps nearly 600 points to,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_17,"Stock Market News, Jan. 5, 202",Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_18,U.S. stocks show little reacti,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_20,Dow Jumps to Record After U.S.,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_23,Stock market today: Dow closes,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_27,Dow Jones Soars To Record High,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_29,S&P 500 ends lower as material,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_30,Dow closes at record high; Nvi,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_36,Stock Market Today: Dow hits r,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_02,Nvidia wants to power robotaxi,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_03,Nvidia Unveils Faster AI Chips,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_15,Stock futures are little chang,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_21,Stock market today: US futures,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
+Auto_32,Stock market today: Dow future,Error,0,Error,0,Error,0,Error,0,Error,0,Error,0
