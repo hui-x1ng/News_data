@@ -1,3 +1,5 @@
 分为两个branch
-main branch由ai inject并进行evaluation
-在manually inject branch中通过人为调控注入温和的bias提高实验可信度
+
+``main`` branch由ai inject并进行evaluation
+
+``manually inject`` branch中通过人为调控注入温和的bias提高实验可信度
